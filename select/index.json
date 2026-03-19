@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Hey Brother (Avicii By Avicii)",
   "base_artist": "Avicii",
-  "createdAt": "2026-03-19T11:31:22.126088Z",
+  "createdAt": "2026-03-19T11:46:46.477911Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,15 @@
       "artist": "Avicii",
       "has_synced": true,
       "path": "select/07_Hey_Brother_(_By_)_Avicii.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Hey Brother (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_01_Hey_Brother_(Avicii_By_Avicii)_Avicii.lrc",
+      "repo_name": "RnYgoJcM9QQ"
     }
   ]
 }
